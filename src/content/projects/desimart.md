@@ -2,7 +2,7 @@
 title: DesiMart
 subtitle: AI-powered grocery ordering agent
 date: September 4, 2026
-image: src/images/desimart.png
+image: /images/desimart.png
 tags: [Python, LLMs, OCR, MCP, API]
 ---
 

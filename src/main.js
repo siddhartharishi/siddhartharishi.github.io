@@ -238,16 +238,16 @@ function socialIcons() {
   return `
     <div class="socials">
       <a href="${socialLinks.github}" target="_blank" rel="noreferrer" aria-label="GitHub">
-        <img src="/src/images/github.png" alt="GitHub">
+        <img src="//images/github.png" alt="GitHub">
       </a>
       <a href="${socialLinks.linkedin}" target="_blank" rel="noreferrer" aria-label="LinkedIn">
-        <img src="/src/images/linkedin.png" alt="LinkedIn">
+        <img src="//images/linkedin.png" alt="LinkedIn">
       </a>
       <a href="${socialLinks.leetcode}" target="_blank" rel="noreferrer" aria-label="LeetCode">
-        <img src="/src/images/code.png" alt="LeetCode">
+        <img src="//images/code.png" alt="LeetCode">
       </a>
       <a href="${socialLinks.x}" target="_blank" rel="noreferrer" aria-label="X">
-        <img src="/src/images/twitter.png" alt="X">
+        <img src="//images/twitter.png" alt="X">
       </a>
     </div>
   `;
@@ -302,7 +302,7 @@ function projectCard(item) {
 
             <img
               class="project-arrow"
-              src="src/images/arrow.png"
+              src="/images/arrow.png"
               alt="View project"
             >
           </div>
@@ -337,7 +337,7 @@ function blogCard(item) {
           </p>
           <div class="blog-author">
               <img
-                src="/src/images/sidsrishi.jpeg"
+                src="//images/sidsrishi.jpeg"
                 alt="Siddhartha Rishi"
               />
 
@@ -377,7 +377,7 @@ function homePage() {
 
           <div class="hero-avatar">
             <img
-              src="src/images/avatar.png"
+              src="/images/avatar.png"
               alt="Siddhartha working on a laptop with a Coke"
             >
           </div>
@@ -394,7 +394,7 @@ function homePage() {
         <div class="about-layout">
           <div class="about-image">
             <img
-              src="src/images/about-avatar.png"
+              src="/images/about-avatar.png"
               alt="About Siddhartha"
             />
           </div>
@@ -517,7 +517,7 @@ function homePage() {
           </p>
            <img
             class="contact-image"
-            src="/src/images/work.png"
+            src="//images/work.png"
             alt="Let's work together"
           />
           
@@ -581,7 +581,7 @@ function detailPage(item, type) {
 
             <div class="detail-author">
               <img
-                src="/src/images/sidsrishi.jpeg"
+                src="//images/sidsrishi.jpeg"
                 alt="Siddhartha Rishi"
               />
 
