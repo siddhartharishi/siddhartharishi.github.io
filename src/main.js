@@ -238,16 +238,16 @@ function socialIcons() {
   return `
     <div class="socials">
       <a href="${socialLinks.github}" target="_blank" rel="noreferrer" aria-label="GitHub">
-        <img src="//images/github.png" alt="GitHub">
+        <img src="/images/github.png" alt="GitHub">
       </a>
       <a href="${socialLinks.linkedin}" target="_blank" rel="noreferrer" aria-label="LinkedIn">
-        <img src="//images/linkedin.png" alt="LinkedIn">
+        <img src="/images/linkedin.png" alt="LinkedIn">
       </a>
       <a href="${socialLinks.leetcode}" target="_blank" rel="noreferrer" aria-label="LeetCode">
-        <img src="//images/code.png" alt="LeetCode">
+        <img src="/images/code.png" alt="LeetCode">
       </a>
       <a href="${socialLinks.x}" target="_blank" rel="noreferrer" aria-label="X">
-        <img src="//images/twitter.png" alt="X">
+        <img src="/images/twitter.png" alt="X">
       </a>
     </div>
   `;
@@ -337,7 +337,7 @@ function blogCard(item) {
           </p>
           <div class="blog-author">
               <img
-                src="//images/sidsrishi.jpeg"
+                src="/images/sidsrishi.jpeg"
                 alt="Siddhartha Rishi"
               />
 
@@ -517,7 +517,7 @@ function homePage() {
           </p>
            <img
             class="contact-image"
-            src="//images/work.png"
+            src="/images/work.png"
             alt="Let's work together"
           />
           
@@ -581,7 +581,7 @@ function detailPage(item, type) {
 
             <div class="detail-author">
               <img
-                src="//images/sidsrishi.jpeg"
+                src="/images/sidsrishi.jpeg"
                 alt="Siddhartha Rishi"
               />
 
